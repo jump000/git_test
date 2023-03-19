@@ -1,5 +1,5 @@
 #! /bin/bash/
-notify-send "focus... "
+notify-send "Focus."
 
 #SECONDS=0 #seconds since the proc is up.
 m_max=24 m_now=0
